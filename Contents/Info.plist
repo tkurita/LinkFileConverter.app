@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleAllowMixedLocalizations</key>
+	<true/>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleDocumentTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleTypeExtensions</key>
+			<array>
+				<string>*</string>
+			</array>
+			<key>CFBundleTypeOSTypes</key>
+			<array>
+				<string>****</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Viewer</string>
+		</dict>
+	</array>
+	<key>CFBundleExecutable</key>
+	<string>droplet</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.2 copyright 2003-2010, Tetsuro KURITA</string>
+	<key>CFBundleIconFile</key>
+	<string>droplet</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.apple.ScriptEditor.id.8C4C84DA-A37B-4973-B045-D64C419AFCDF</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>LinkFileConverter</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2</string>
+	<key>CFBundleSignature</key>
+	<string>dplt</string>
+	<key>CFBundleVersion</key>
+	<string>1.2</string>
+	<key>LSMinimumSystemVersionByArchitecture</key>
+	<dict>
+		<key>x86_64</key>
+		<string>10.6</string>
+	</dict>
+	<key>LSRequiresCarbon</key>
+	<true/>
+	<key>LSUIElement</key>
+	<false/>
+	<key>NSHumanReadableCopyright</key>
+	<string>copyright 2003-2010, Tetsuro KURITA</string>
+	<key>WindowState</key>
+	<dict>
+		<key>dividerCollapsed</key>
+		<false/>
+		<key>eventLogLevel</key>
+		<integer>2</integer>
+		<key>name</key>
+		<string>ScriptWindowState</string>
+		<key>positionOfDivider</key>
+		<real>403</real>
+		<key>savedFrame</key>
+		<string>3 178 687 700 0 0 1440 878 </string>
+		<key>selectedTabView</key>
+		<string>description</string>
+	</dict>
+</dict>
+</plist>
