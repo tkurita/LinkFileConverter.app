@@ -54,6 +54,10 @@
 	<string>copyright 2003-2010, Tetsuro KURITA</string>
 	<key>WindowState</key>
 	<dict>
+		<key>bundleDividerCollapsed</key>
+		<true/>
+		<key>bundlePositionOfDivider</key>
+		<real>0.0</real>
 		<key>dividerCollapsed</key>
 		<false/>
 		<key>eventLogLevel</key>
@@ -63,8 +67,8 @@
 		<key>positionOfDivider</key>
 		<real>403</real>
 		<key>savedFrame</key>
-		<string>3 178 687 700 0 0 1440 878 </string>
-		<key>selectedTabView</key>
+		<string>3 177 687 700 0 0 1440 877 </string>
+		<key>selectedTab</key>
 		<string>description</string>
 	</dict>
 </dict>
